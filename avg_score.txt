@@ -1,0 +1,27 @@
+
+Name: James
+
+Scores: 1829 2743 1389
+
+The average score for James is: 1883.2
+
+Master - Good Job!
+
+
+Name: Wilson
+
+Scores: 2394 3482 1480
+
+The average score for Wilson is: 2263.4
+
+Congrats! You are an Expert!
+
+
+Name: Carlos
+
+Scores: 1984 2019 1393
+
+The average score for Carlos is: 1699
+
+Advanced - Good Job!
+
